@@ -1,12 +1,21 @@
-# Cemilcem Oktay
+# Hi, I'm Cemilcem Oktay 👋
 
-**Bilgisayar Mühendisliği Öğrencisi | Mobil Geliştirici | AI Entegratörü**
+**Computer Engineering Graduate | Mobile Developer | Open Source Contributor**
 
-- **Mobil & Web:** React Native, Expo, TypeScript, Node.js, React 18, Tailwind CSS
-- **AI & Veri:** Python, FastAPI, ChromaDB, RAG Pipeline, Google Gemini, Local LLMs
-- **Diğer:** Unity 3D, C#, SQLite, Firebase
+I'm a software developer focused on building mobile applications and practical AI-powered products. I'm currently expanding my open-source experience by contributing to projects I use and learn from.
 
-### 📫 İletişim
-Benimle projeler, işbirlikleri veya teknoloji üzerine konuşmak için iletişime geçebilirsiniz:
+### 🛠️ Tech Stack
 
-- **E-posta:** [oktcemilcem@gmail.com](mailto:oktcemilcem@gmail.com)
+- **Mobile & Web:** React Native, Expo, TypeScript, Node.js, React, Tailwind CSS
+- **AI & Data:** Python, FastAPI, ChromaDB, RAG Pipelines, Google Gemini, Local LLMs
+- **Other:** Unity 3D, C#, SQLite, Firebase
+
+### 🌱 Open Source
+
+I'm actively getting involved in open source, with a focus on meaningful contributions such as bug fixes, tests, documentation improvements, and small features.
+
+### 📫 Contact
+
+I'm open to junior software development opportunities, open-source collaboration, and interesting projects.
+
+- **Email:** [oktcemilcem@gmail.com](mailto:oktcemilcem@gmail.com)
